@@ -13,6 +13,10 @@
   /* White */
   color: #555555; }
 
+.hb-bg-4 {
+  background-color: #2f2f2f;
+  color: #ffffff; }
+
 .container-fluid {
   padding-top: 70px;
   padding-bottom: 70px; }
@@ -29,19 +33,15 @@
 .navbar-nav li a:hover {
   color: #1abc9c !important; }
 
-.hb-bg-4 {
-  background-color: #2f2f2f;
-  color: #ffffff; }
-
 body {
-  font: 20px "Montserrat", sans-serif;
+  font: 1.5em "Montserrat", sans-serif;
   line-height: 1.8;
   color: #f5f6f7; }
 
 p {
-  font-size: 16px; }
+  font-size: 1em; }
 
-.margin {
+.hb-margin {
   margin-bottom: 45px; }
 
 /*# sourceMappingURL=style.css.map */
